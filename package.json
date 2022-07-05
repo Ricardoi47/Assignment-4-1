@@ -1,0 +1,24 @@
+{
+  "name": "4.1p",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.2",
+    "nodemon": "^2.0.12",
+    "parser": "^0.1.4",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
